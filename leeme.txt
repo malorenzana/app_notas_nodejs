@@ -1,0 +1,15 @@
+
+CREAR EL PACKAGE.JASON
+	npm init --yes  
+
+MODULOS O LIBRERIAS
+	mongoose: conectar con la db mongodb
+	passport: registrar usuarios
+	bcript: encriptar, hashar contraseñas
+	connect-flash: enviar mensajes entre muntiples vistas (alertas de errores)
+	express-handlebars: motor de plantillas .hbs
+	nodemon: escuchando cambios a la hora del desarrollo
+	express-validator: validaciones de data
+
+	
+
